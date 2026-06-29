@@ -1,0 +1,29 @@
+[
+  {
+    "nombre": "Dragonoid",
+    "atributo": "Pyrus",
+    "poder": 600,
+    "cartas": ["Boosted Dragon"],
+    "fortalezas": ["Fuego"],
+    "debilidades": ["Agua"],
+    "imagen": "dragonoid.png"
+  },
+  {
+    "nombre": "Hydranoid",
+    "atributo": "Darkus",
+    "poder": 700,
+    "cartas": ["Darkus Crusher"],
+    "fortalezas": ["Oscuridad"],
+    "debilidades": ["Luz"],
+    "imagen": "hydranoid.png"
+  },
+  {
+    "nombre": "Serpenoid",
+    "atributo": "Pyrus",
+    "poder": 150,
+    "cartas": ["Deep cave"],
+    "fortalezas": ["Ahorque"],
+    "debilidades": ["Aire"],
+    "imagen": "hydranoid.png"
+  }
+]
